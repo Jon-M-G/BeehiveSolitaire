@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    /* This was easier than writing all the image ids in main activity
+    <integer-array name="images">
+        <item>@drawable/c_2c</item>>
+        <item>@drawable/c_2d</item>>
+        <item>@drawable/c_2h</item>>
+        <item>@drawable/c_2s</item>>
+        <item>@drawable/c_3c</item>>
+        <item>@drawable/c_3d</item>>
+        <item>@drawable/c_3h</item>>
+        <item>@drawable/c_3s</item>>
+        <item>@drawable/c_4c</item>>
+        <item>@drawable/c_4d</item>>
+        <item>@drawable/c_4h</item>>
+        <item>@drawable/c_4s</item>>
+        <item>@drawable/c_5c</item>>
+        <item>@drawable/c_5d</item>>
+        <item>@drawable/c_5h</item>>
+        <item>@drawable/c_5s</item>>
+        <item>@drawable/c_6c</item>>
+        <item>@drawable/c_6d</item>>
+        <item>@drawable/c_6h</item>>
+        <item>@drawable/c_6s</item>>
+        <item>@drawable/c_7c</item>>
+        <item>@drawable/c_7d</item>>
+        <item>@drawable/c_7h</item>>
+        <item>@drawable/c_7s</item>>
+        <item>@drawable/c_8c</item>>
+        <item>@drawable/c_8d</item>>
+        <item>@drawable/c_8h</item>>
+        <item>@drawable/c_8s</item>>
+        <item>@drawable/c_9c</item>>
+        <item>@drawable/c_9d</item>>
+        <item>@drawable/c_9h</item>>
+        <item>@drawable/c_9s</item>>
+        <item>@drawable/c_tc</item>>
+        <item>@drawable/c_td</item>>
+        <item>@drawable/c_th</item>>
+        <item>@drawable/c_ts</item>>
+        <item>@drawable/c_jc</item>>
+        <item>@drawable/c_jd</item>>
+        <item>@drawable/c_jh</item>>
+        <item>@drawable/c_js</item>>
+        <item>@drawable/c_qc</item>>
+        <item>@drawable/c_qd</item>>
+        <item>@drawable/c_qh</item>>
+        <item>@drawable/c_qs</item>>
+        <item>@drawable/c_kc</item>>
+        <item>@drawable/c_kd</item>>
+        <item>@drawable/c_kh</item>>
+        <item>@drawable/c_ks</item>>
+        <item>@drawable/c_ac</item>>
+        <item>@drawable/c_ad</item>>
+        <item>@drawable/c_ah</item>>
+        <item>@drawable/c_as</item>>
+    </integer-array>
+
+
+
+
+</resources>
